@@ -11,21 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. in Computer Science, University of Southern California
+* B.S. Computer Science and Engineering, Indian Institute of Technology, Jodhpur, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2017 - Present: Research Student Worker
+  * Information Sciences Institute, University of Southern California
+  * Duties included: NLP
+  * Supervisor: Professor Elizabeth Boschee, Professor Pedro Szekely
 
-* Fall 2015: Research Assistant
-  * Github University
+* May 2015 - June 2017: Senior Software Development Engineer
+  * Sigmoid, Big Data Engineering, R&D
+  * Dutien included: Big Data
+  * Supervisor: Mr. Rahul Kumar Singh
+
+* Summer 2014: Summer Research Student
+  * University of Southern California
+  * Duties included: Tagging issues
+  * Supervisor: Professor Karthik Pattabiraman, Dr. José Martí
+
+* Summer 2013: Research Student
+  * DRDO India
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr Venkat, Scientist(c)
   
 Skills
 ======
@@ -56,4 +65,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Elected as students’ senator and member of students’ general body committee at IIT Jodhpur
