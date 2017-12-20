@@ -1,0 +1,16 @@
+table#skillstable {
+    border:none;
+}
+
+table#skillstable th {
+    border-right: 0;
+    font-size: 18px;
+}
+
+table#skillstable td {
+    border-right: 0;
+    border-bottom: 0;
+    font-size: 18px;
+}
+
+
