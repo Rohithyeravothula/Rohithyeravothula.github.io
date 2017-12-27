@@ -91,18 +91,6 @@ Skills
 
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Projects
 ======
   <ul>{% for post in site.teaching %}
@@ -112,4 +100,5 @@ Projects
 Service and leadership
 ======
 * Elected as students’ senator and member of students’ general body committee at IIT Jodhpur
+* Mentored 4 interns to implement a web scraping tool for e-commerce websites on Apache Spark and MongoDB
 * Represented Institute's chess team for 3 successive years, IIT Jodhpur
