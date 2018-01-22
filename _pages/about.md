@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About
-===
-
+<h2>About</h2>
 
 
 I am computer science graduate student at the University of Southern California, with a Bachelor's degree in computer science from IIT Jodhpur.
