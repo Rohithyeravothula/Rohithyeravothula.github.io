@@ -8,6 +8,6 @@ date: 2017-01-01
 location: "City, Country"
 ---
 
-• Created a real-time distributed sentimental analysis pipeline on Spark Streaming and Stanford NLP for Twitter data
+* Created a real-time distributed sentimental analysis pipeline on Spark Streaming and Stanford NLP for Twitter data
 
 

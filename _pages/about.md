@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+About
+===
+
 
 
 I am computer science graduate student at the University of Southern California, with a Bachelor's degree in computer science from IIT Jodhpur.
@@ -18,7 +21,7 @@ Skilled in Python, Scala, Java, Linux System Administration, Bash, both relation
 Active Projects
 ===
 
-* Causal Knowledge Organization
+* Information Sciences Institute, USC
 * USC Sparkler
 
 
